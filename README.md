@@ -1,75 +1,32 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+Microverse First Project
 
-> One paragraph statement about the project.
+The goal of the project is to create a simple html style tage with h1 element. 
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+![screenshot](./First_project.png)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML, CSS
+- WebHint, StyleLint packages are used to check for linter errors
+- Visual Studio
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://medini-rajendra.github.io/helloworld/)
 
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+## Setup 
+- git clone https://github.com/Medini-Rajendra/helloworld.git
+- cd into the folder
+- git checkout recreate_webpage
+- open `index.html` with live server
 
 ## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+Rajendra Medini
+- GitHub: [@Medini-Rajendra](https://github.com/Medini-Rajendra)
+- Twitter: [@invenire512](https://twitter.com/invenire512)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/medinichaitanya/)
 
 ## 📝 License
 
